@@ -1,0 +1,20 @@
+[
+    {
+      "importance": 0.2,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "class": "highway",
+      "osm_id": 1149936033,
+      "display_name": "Patta - Padur Road, Padūr, Uthiramerur, Kanchipuram District, Tamil Nadu, India",
+      "osm_type": "way",
+      "lon": "79.8280348",
+      "place_id": 352228443,
+      "boundingbox": [
+        "12.7037757",
+        "12.7096429",
+        "79.8208851",
+        "79.8349133"
+      ],
+      "lat": "12.7070368",
+      "type": "tertiary"
+    }
+  ]
